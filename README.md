@@ -1,4 +1,4 @@
-# Garbage Collection with JavaScript
+# Garbage Collection Time Reduction
 
 ## Introduction
 
